@@ -1,0 +1,39 @@
+body{
+	background-color:skyblue;
+}
+.home{
+	border: 3px solid yellow;
+	padding:5px;
+	position:fixed;
+	left:0px;
+	top:0px;
+}
+.home a{
+	color:yellow;
+}
+.first-div{
+	border: 3px solid green;
+	padding:5px;
+	position:static;
+	left:20px;
+}
+.second-div{
+	border: 3px solid red;
+	padding:5px;
+	position:relative;
+	left:20px;
+}
+.third-div{
+	border: 3px solid blue;
+	padding:5px;
+	position:relative;
+	height:200px;
+}
+.fourth-div{
+	border: 3px solid aqua;
+	padding:5px;
+	position:absolute;
+	left:500px;
+	top:130px;
+	
+}
